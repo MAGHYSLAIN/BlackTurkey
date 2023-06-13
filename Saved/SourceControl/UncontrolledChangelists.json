@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git/BlackTurkey/Content/Map/Level1/Level1GG.umap"
+			]
+		}
+	]
+}
