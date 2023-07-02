@@ -1,6 +1,6 @@
 # BlackTurkey
 
-![BlackTurkey](https://github.com/MAGHYSLAIN/BlackTurkey/assets/22080463/f79e1b33-b79b-45a4-95d4-045cf0ce134d)
+![BlackTurkey](https://github.com/MAGHYSLAIN/BlackTurkey/assets/22080463/f79e1b33-b79b-45a4-95d4-045cf0ce134d) size/2
 
 
 Your are Celine and you have to fight la grosse dinde noire. Protect ton caouch of the grosse dinde pee.
