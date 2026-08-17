@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ghyslain/Documents/Unreal Projects/BlackTurkey/Content/Map/Level1/Level1GG_BuiltData.uasset",
+				"C:/Users/Ghyslain/Documents/Unreal Projects/BlackTurkey/Content/Map/Level1/Level1GG.umap",
+				"C:/Users/Ghyslain/Documents/Unreal Projects/BlackTurkey/Content/Blueprint/AiBoss/Ai_DindeNoire.uasset",
+				"C:/Users/Ghyslain/Documents/Unreal Projects/BlackTurkey/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 				"D:/Git/BlackTurkey/Content/Map/Level1/Level1GG.umap"
 			]
 		}
